@@ -1,19 +1,19 @@
 # Tea
 A e-commerce web site 
 
-Techologies used:
-- Node.js
-- Express
-- MySQL
-- EJS
-- CSS
-- HTML
-- JavaScript
-- FileSystem
-- Socket.io
-- bcrypt
-- Express-session
-- cookie-parser
-- body-parser
-- nodemailer
-- TypeScript
+## Techologies used:
+* Node.js
+* Express
+* MySQL
+* EJS
+* CSS
+* HTML
+* JavaScript
+* FileSystem
+* Socket.io
+* bcrypt
+* Express-session
+* cookie-parser
+* body-parser
+* nodemailer
+* TypeScript
