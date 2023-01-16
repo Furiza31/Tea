@@ -1,0 +1,19 @@
+{
+    "name": "tea",
+    "version": "0.0.1",
+    "description": "A e-comerce web site for tea",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Furiza31/Tea.git"
+    },
+    "author": "Furiza",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Furiza31/Tea/issues"
+    },
+    "homepage": "https://github.com/Furiza31/Tea#readme"
+}
