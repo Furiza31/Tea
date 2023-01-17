@@ -9,7 +9,6 @@ A e-commerce web site
 * CSS
 * HTML
 * JavaScript
-* FileSystem
 * Socket.io
 * bcrypt
 * Express-session
