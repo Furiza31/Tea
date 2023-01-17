@@ -15,4 +15,3 @@ A e-commerce web site
 * cookie-parser
 * body-parser
 * nodemailer
-* TypeScript
